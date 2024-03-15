@@ -1,0 +1,12 @@
+/* body {
+    font-family: 'Pretendard', sans-serif;
+} */
+
+input, select, textarea {
+    text-indent: 10px;
+    outline: none;
+}
+
+/* @tailwind base; */
+/* @tailwind components; */
+/* @tailwind utilities; */
